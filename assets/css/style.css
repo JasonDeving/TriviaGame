@@ -1,0 +1,14 @@
+body {
+  max-width: 600px;
+  margin: auto;
+}
+h1 {
+	text-align: center;
+}
+.jumbotron {
+	background: url(http://static.vecteezy.com/system/resources/previews/000/094/491/original/polygonal-texture-background-vector.jpg);
+	opacity: .9;
+}
+td {
+	padding-left: 15px;
+}
