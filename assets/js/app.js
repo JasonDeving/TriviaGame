@@ -31,7 +31,7 @@ function call() {
 		var correct = 0;
 		var incorrect = 0;
 		var unanswered = 0;
-		var html;
+		var html = "";
 
     function question(question, answer) {
     	if(question == answer) {
