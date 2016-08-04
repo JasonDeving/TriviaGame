@@ -19,6 +19,7 @@ $("#start").on("click", function(){
 	$("#submit").click(function(){
 		timeLeft = 0;
 		clearTimeout(timerId);
+        timerId = null;
 	});
 });
 
